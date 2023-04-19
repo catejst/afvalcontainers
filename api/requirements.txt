@@ -46,7 +46,7 @@ ruamel.yaml==0.15.75
 sentry-sdk==0.6.6
 simplejson==3.16.0
 six==1.11.0
-sqlparse==0.2.4
+sqlparse==0.4.4
 swagger-spec-validator==2.4.1
 text-unidecode==1.2
 unicodecsv==0.14.1
